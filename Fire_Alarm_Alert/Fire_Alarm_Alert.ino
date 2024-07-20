@@ -11,8 +11,8 @@
  
 char auth[] = BLYNK_AUTH_TOKEN;
 
-char ssid[] = "NP";  // type your wifi name
-char pass[] = "naveen..";  // type your wifi password
+char ssid[] = "";  // type your wifi name
+char pass[] = "";  // type your wifi password
  
 
 BlynkTimer timer;
